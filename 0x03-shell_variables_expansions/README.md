@@ -1,0 +1,1 @@
+This project is on setting variables: global and local in shell and shell expansions
